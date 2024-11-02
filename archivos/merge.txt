@@ -1,0 +1,1 @@
+La carpeta archivos se subió porque estaba en un repositorio al que hicimos commit y push.
